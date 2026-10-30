@@ -1,0 +1,6 @@
+{
+  "name": "NEXU-OS Enterprise Builder & Distribution Suite",
+  "description": "Production-grade OS automation suite, Air-gapped ISO packaging, cgroups I/O tuning, systemd AI microservices, and QEMU QA pipeline for NEXU-OS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
